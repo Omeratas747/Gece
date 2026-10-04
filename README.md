@@ -1,4 +1,4 @@
-# Gece
+# discord-bot
 # Discord Güvenlik & Moderasyon Botu
 HATA BULURSANIZ KODDA VEYA BİR AÇIK BİLDİRİN E POSTA = omeratas855@gmail.com
 
