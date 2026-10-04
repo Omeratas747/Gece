@@ -1,5 +1,6 @@
 # Gece
 # Discord Güvenlik & Moderasyon Botu
+HATA BULURSANIZ KODDA VEYA BİR AÇIK BİLDİRİN E POSTA = omeratas855@gmail.com
 
 SQLite tabanlı, kredi/ödeme sistemi ile çalışan bir Discord güvenlik ve moderasyon botu.
 
